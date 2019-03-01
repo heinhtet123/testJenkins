@@ -1,4 +1,4 @@
 <?php 
 
 
-echo "Hi From hein".
+echo "Hi From ko thet paing".
