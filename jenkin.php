@@ -1,4 +1,4 @@
 <?php 
 
 
-echo "Hi From ko t".
+echo "Hi From ko";
