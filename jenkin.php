@@ -1,3 +1,3 @@
 <?php 
 
-echo "HelloWorld This is testing from hein ";
+echo "HelloWorld This is testing from ";
