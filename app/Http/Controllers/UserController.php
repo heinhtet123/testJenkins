@@ -8,7 +8,8 @@ class UserController extends Controller
 {
     public function test(Request $request)
     {
-    	dd("Hello World Ko HH");
+    	return "Hello World Ko HH";
+    	// dd("Hello World Ko HH");
     }
     
 }
