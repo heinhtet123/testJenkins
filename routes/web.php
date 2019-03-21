@@ -11,6 +11,11 @@
 |
 */
 
-Route::get('/', function () {
-    return view('welcome');
-});
+// Route::get('/', function () {
+//     return view('welcome');
+// });
+Route::get('/',['uses'=>'UserController@test']);
+
+// Route::get('/', function () {
+//     return view('welcome');
+// });
