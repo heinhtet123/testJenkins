@@ -8,7 +8,7 @@ class UserController extends Controller
 {
     public function test(Request $request)
     {
-    	return "Hello From the other side";
+    	return "Hello From the other";
     }
     
 }
