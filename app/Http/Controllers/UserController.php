@@ -8,7 +8,7 @@ class UserController extends Controller
 {
     public function test(Request $request)
     {
-    	return "Hello From the other";
+    	return response()->json(['name'=>"hein","address"=>"no.1","mobileno"=>"12356"]);
     }
     
 }
